@@ -1,0 +1,113 @@
+#outer
+{
+    width:1000px;
+   min-height:1150px;
+    margin:0 auto;
+    background-color:lightgoldenrodyellow;
+    border:1px solid;
+    height:auto;
+}
+#header
+{
+    width:1000px;
+    height:150px;
+}
+#logo
+{
+    width:150px;
+    height:150px;
+    background-color:aqua;
+    float:left;
+   // border:0.5px solid;
+    //border-radius:10px 0px 0px 0px;
+}
+#banner
+{
+    width:845px;
+    height:150px;
+    background-color:teal;
+    float:right;
+     border:0.5px solid;
+    border-radius:0px 0px 0px 0px;
+    font-size:100px;
+    color:white;
+    line-height:150px;
+    text-align:center;
+}
+#menu
+{
+    width:1000px;
+    height:50px;
+    background-color:greenyellow;
+    margin-top:2px;
+}
+#menu ul
+{
+   list-style-type:none; 
+}
+#menu ul li
+{
+  display:inline;
+    
+}
+#menu ul li a
+{
+    font-size:25px;
+    padding:20px;
+    text-decoration:none;
+    color:red;
+    line-height:50px;
+}
+#menu ul li a:hover
+{
+    color:blanchedalmond;
+}
+#parent
+{
+    width:1000px;
+   min-height:870px;
+    margin-top:2px;
+    height:auto;
+    background-color:white;
+}
+#footer
+{
+    width:1000px;
+    height:80px;
+    margin-top:2px;
+    border:0.4px solid red;
+}
+#lfooter
+{
+    width:500px;
+    height:80px;
+    background-color:black;
+    float:left;
+    color:white;
+    font-size:25px;
+    line-height:80px;
+    text-align:center;
+}
+#rfooter
+{
+    width:500px;
+    height:80px;
+    background-color:teal;
+    float:right;
+     color:white;
+    font-size:25px;
+    line-height:80px;
+    text-align:center;
+}
+.H
+{
+ height: 80px;
+    width: 250px;
+    background-color:wheat;
+    border-radius:30px;
+    border:1px solid blueviolet; 
+}
+.H:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}

@@ -1,0 +1,269 @@
+#outer
+{
+    width:1000px;
+    height:1410px;
+    margin:0 auto;
+    background-color:lightgoldenrodyellow;
+    border:1px solid;
+    //border-radius:10px 10px 0px 0px;
+}
+#header
+{
+    width:1000px;
+    height:150px;
+   
+   // border-radius:10px;
+   // border:1px solid;
+}
+#logo
+{
+    width:150px;
+    height:150px;
+    background-color:white;
+    float:left;
+   // border:0.5px solid;
+    //border-radius:10px 0px 0px 0px;
+}
+#banner
+{
+    width:845px;
+    height:150px;
+    background-color:teal;
+    float:right;
+     border:0.5px solid;
+    border-radius:0px 0px 0px 0px;
+    font-size:100px;
+    color:white;
+    line-height:150px;
+    text-align:center;
+}
+#menu
+{
+height:50px;
+width:997px;
+border:1px solid darksalmon;
+//border-radius:10px;
+}
+#menu ul
+{
+list-style-type:none;
+
+}
+#menu ul li
+{
+display:inline;
+padding:17.5px;
+//border:1px solid;
+}
+#menu ul li a
+{
+color:brown;
+text-decoration:none;
+
+}
+#menu ul li
+{
+background-color:yellow;
+border-radius:0px 18px 0px 18px;
+margin-left: 10px;
+}
+#menu ul li:hover
+{
+    // box-shadow: 0px 5px 15px gray;
+     box-shadow: 0px 0px 10px gray;
+    background-color: lightgreen;
+    border:2px solid lightgrey;
+    color:blue;
+    transition: 1s;
+}
+#slider
+{
+    width:1000px;
+    height:250px;
+    background-color:green;
+    margin-top:2px;
+}
+#parent
+{
+    width:1000px;
+    height:870px;
+    margin-top:3px;
+}
+#left
+{
+    width:300px;
+    height:870px;
+    background-color:bisque;
+    float:left;
+        
+}
+#right
+{
+    width:700px;
+    height:870px;
+    background-color:white;
+    float:right;
+    
+}
+#footer
+{
+    width:1000px;
+    height:80px;
+    margin-top:-11px;
+    border:0.4px solid red;
+}
+#lfooter
+{
+    width:500px;
+    height:80px;
+    background-color:lightcoral;
+    float:left;
+    color:white;
+    font-size:20px;
+    line-height:80px;
+    text-align:center;
+}
+#rfooter
+{
+    width:500px;
+    height:80px;
+    background-color:lightcoral;
+    float:right;
+     color:white;
+    font-size:20px;
+    line-height:80px;
+    text-align:center;
+}
+.txt
+{
+    height: 50px;
+    width: 250px;
+    background-color:wheat;
+   // border-radius:30px;
+    border:1px solid blueviolet;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+.txt:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.txt1
+{
+    height: 80px;
+    width: 250px;
+    background-color:wheat;
+   // border-radius:30px;
+    border:1px solid blueviolet;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+.btn
+{
+    height:40px;
+    width: 200px;
+    background-color: blue;
+    border:1px solid blue;
+    color:white;
+    border-radius: 25px;
+    font-size: 16px;
+    display:block;
+    margin: 10px auto;   
+}
+.txt1:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.btn:hover
+{
+    box-shadow: 0px 0px 10px gray;
+    background-color: white;
+    border:1px solid lightgrey;
+    color:blue;
+    transition: 1s;
+}
+.B
+{
+    height: 50px;
+    width: 250px;
+    background-color:wheat;
+   // border-radius:30px;
+    border:1px solid blueviolet;
+    
+}
+.B:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.C
+{
+    height: 80px;
+    width: 250px;
+    background-color:wheat;
+   // border-radius:30px;
+    border:1px solid blueviolet;
+   
+}
+.C:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.btn1
+{
+    height:40px;
+    width: 200px;
+    background-color: blue;
+    border:1px solid blue;
+    color:white;
+    border-radius: 25px;
+    font-size: 16px;
+    display:block;
+    margin: 10px auto;   
+}
+.btn1:hover
+{
+    box-shadow: 0px 0px 10px gray;
+    background-color: white;
+    border:1px solid lightgrey;
+    color:blue;
+    transition: 1s;
+}
+.L
+{
+ height: 80px;
+    width: 250px;
+    background-color:wheat;
+    border-radius:30px;
+    border:1px solid blueviolet; 
+}
+.L:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.btn2
+{
+    height:40px;
+    width: 200px;
+    background-color: blue;
+    border:1px solid blue;
+    color:white;
+    border-radius: 25px;
+    font-size: 16px;
+    display:block;
+    margin: 10px auto;   
+}
+.btn2:hover
+{
+    box-shadow: 0px 0px 10px gray;
+    background-color: white;
+    border:1px solid lightgrey;
+    color:blue;
+    transition: 1s;
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 12, 2019, 3:49:25 PM
+    Author     : Hp
+*/
+
